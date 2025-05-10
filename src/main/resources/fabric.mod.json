@@ -22,13 +22,6 @@
 			"com.example.TemplateClient"
 		]
 	},
-	"mixins": [
-		"template.mixins.json",
-		{
-			"config": "template.client.mixins.json",
-			"environment": "client"
-		}
-	],
 	"depends": {
 		"fabricloader": ">=0.16.12",
 		"minecraft": "~1.21.5",
