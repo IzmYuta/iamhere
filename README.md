@@ -31,10 +31,6 @@
 - Fabric API
 - Java 21以上
 
-## ライセンス
-
-CC0-1.0
-
 ## 開発者
 
 IzmYuta
